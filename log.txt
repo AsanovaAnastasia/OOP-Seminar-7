@@ -1,0 +1,4 @@
+февр. 21, 2024 9:58:30 AM Model.ComplexNumberCalculator sum
+INFO: (5 + 4i) + (4 + 8i) = 9 + 12i
+февр. 21, 2024 10:00:21 AM Model.ComplexNumberCalculator sum
+INFO: (5 + 4i) + (7 + 8i) = 12 + 12i
